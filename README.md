@@ -1,5 +1,6 @@
-# Jarvis Assistant
-
+# Jarvis Assistant 🤖
+(https://img.shields.io/github/repo-size/KalaiVorteX/jarvis-assistant)
+(https://img.shields.io/github/stars/KalaiVorteX/jarvis-assistant?style=social)  
 ## Overview
 
 **Jarvis Assistant** is an AI-powered assistant designed to help users with a variety of tasks through natural language processing and voice interactions. The project includes a web-based interface for interacting with the assistant, which is powered by a backend server handling natural language processing, voice recognition, and text-to-speech functionalities.
@@ -93,11 +94,14 @@ The assistant will provide text and audio responses based on your input.
 Contact
 For any inquiries or feedback, you can reach out to:
 
-Email: dsam5238@gmail.com
-LinkedIn: Sam D
+Email: kalaimanik1661@gmail.com
+LinkedIn: https://www.linkedin.com/in/kalaimani-r-34195b2b7
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
+Future Improvements
+- Improve UI design
+- Add more AI models
+- Deploy project online
 Acknowledgments
 Thanks to the Hugging Face team for their amazing NLP models.
 Special thanks to OpenAI for the GPT-2 model used in this project.
