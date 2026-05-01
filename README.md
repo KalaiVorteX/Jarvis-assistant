@@ -1,4 +1,4 @@
-# Jarvis Assistant 🤖
+# Jarvis Assistant
 
 ## Overview
 
@@ -50,7 +50,7 @@ Copy code
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/KalaiVorteX/jarvis-assistant.git
+   git clone https://github.com/Samrocz05/jarvis-assistant.git
    cd jarvis-assistant
 Install Backend Dependencies
 
@@ -93,14 +93,11 @@ The assistant will provide text and audio responses based on your input.
 Contact
 For any inquiries or feedback, you can reach out to:
 
-Email: kalaimanik1661@gmail.com
-LinkedIn: https://www.linkedin.com/in/kalaimani-r-34195b2b7
+Email: dsam5238@gmail.com
+LinkedIn: Sam D
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-Future Improvements
-- Improve UI design
-- Add more AI models
-- Deploy project online
+
 Acknowledgments
 Thanks to the Hugging Face team for their amazing NLP models.
 Special thanks to OpenAI for the GPT-2 model used in this project.
