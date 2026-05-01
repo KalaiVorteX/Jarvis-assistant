@@ -50,7 +50,7 @@ Copy code
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Samrocz05/jarvis-assistant.git
+   git clone https://github.com/KalaiVorteX/jarvis-assistant.git
    cd jarvis-assistant
 Install Backend Dependencies
 
